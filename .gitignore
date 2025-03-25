@@ -173,5 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Ignoring pdf files
+# Ignore pdf files
 src/data/*
+
+# Ignore zip files
+src/output/*
